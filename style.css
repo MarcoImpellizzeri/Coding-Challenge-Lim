@@ -1,0 +1,70 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Secular One', sans-serif;
+}
+
+.Container{
+    width: 1000px;
+    height: 650px;
+    margin: 30px auto;
+    padding:5%;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.Logo{
+    width: 250px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(23, 226, 23);
+    margin-top: 5px;
+    margin-bottom: 0;
+    
+}
+
+nav{
+    background-color: rgb(23, 226, 23);
+    text-align: center;
+    height: 48px;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+section > h2{
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+p{
+    margin: 0;
+}
+
+section > div{
+    border-radius: 5px;
+    height: 30px;
+}
+
+#Carica1{
+    background-color: rgb(253, 176, 33);
+    width: 400px;
+}
+
+#Carica2{
+    background-color: rgb(6, 184, 6);
+    width: 700px;
+}
+
+#Carica3{
+    background-color: rgb(223, 41, 41);
+    width: 150px;
+}
