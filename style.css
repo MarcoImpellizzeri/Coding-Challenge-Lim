@@ -21,11 +21,13 @@ body{
     width: 250px;
     display: block;
     margin: auto;
-    text-align: center;
 }
 
+h1, nav{
+    text-aling: center;
+}
+ 
 h1{
-    text-align: center;
     color: rgb(23, 226, 23);
     margin-top: 5px;
     margin-bottom: 0;
@@ -34,7 +36,6 @@ h1{
 
 nav{
     background-color: rgb(23, 226, 23);
-    text-align: center;
     height: 48px;
     padding: 12px;
     box-sizing: border-box;
